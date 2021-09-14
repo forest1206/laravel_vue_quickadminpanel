@@ -43,7 +43,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "adminapp/js/chunks/" + ({}[chunkId]||chunkId) + ".js?id=" + {"0":"ffe4d28f6f0ea8477082","1":"fbc26939ceebce775bd3","2":"29502e1ea8e84dae7bb8","3":"461776ad4a041f902634","4":"091097827467241d052b","5":"c12733ff651ebda0ad96","6":"f7015f8ecebc20bd24f6","7":"da620e49a507773ebb0e","8":"b05c49b2d6c7c8d802e8","9":"7a1d953be6328eb7e492","10":"8daadc014d1c56df7ce8","11":"9a556add2ca4c04a54e4","12":"168f34f938c5156de364","13":"9bf9133d6f1d85c84f2a","14":"95c7d896ba09ffe965be","15":"314675fab16e72f691be","16":"2edc5aad40ed7c53653c","17":"3f4b0f516c322dfa96a2","18":"f664d382cfe49ab06628","19":"20190e40ff8678d4de9b","20":"9e9229d54a6a5d85ee21","21":"90ebbaa77b710aed4b08","22":"b10c826923af2d39866e","23":"7358e9af74486a140d7e","24":"3a84b94234f8a76e250a","25":"d872031e3818209c4869","26":"e613dec2a9c8cdad15fc"}[chunkId] + ""
+/******/ 		return __webpack_require__.p + "adminapp/js/chunks/" + ({}[chunkId]||chunkId) + ".js?id=" + {"0":"888606d67ad4ba9bdb8e","1":"8221b42fbdba7ad85e3d","2":"31c1e45fb353d2733a02","3":"2f0c29a99321e82bdb65","4":"9142bdca7abd78791da9","5":"3b79174305279fb6f11f","6":"1bbdb809befb8af27bf2","7":"c2de027e8e1b05e4df47","8":"7d62abfd52c8ebec6727","9":"68d1287a090c18957dbf","10":"39956049d3b91020b0f9","11":"b43eff160dfc10fcb972","12":"6d6876206e7a7c06961c","13":"fdf9f586480ab5bc0aee","14":"a374dedcb5ddfa4d5073","15":"a1769f34ad1ed5bf35e0","16":"db613024d96a1ced5d43","17":"a0f0d82e98dc246300b3","18":"f75d08e2183b589d8667","19":"01fd97e8853d693ccee0","20":"1319703866ddffb0d6c0","21":"1014d8a0692fb2952a92","22":"4d6be3860610620acf7a","23":"59aecfde8c75a8d49c83","24":"af5b4fadc56c04fbef4c","25":"2d81db8495f94c2f4e29","26":"5d0acaeabc584d9e133b"}[chunkId] + ""
 /******/ 	}
 /******/
 /******/ 	// The require function
@@ -57474,8 +57474,8 @@ var debug = "development" !== 'production';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\RYS\Development\PHP\QuickAdminPanel-Vue-Example\resources\adminapp\js\app.js */"./resources/adminapp/js/app.js");
-module.exports = __webpack_require__(/*! E:\RYS\Development\PHP\QuickAdminPanel-Vue-Example\resources\adminapp\sass\app.scss */"./resources/adminapp/sass/app.scss");
+__webpack_require__(/*! E:\RYS\Development\PHP\laravel-vue-quickadminpanel\resources\adminapp\js\app.js */"./resources/adminapp/js/app.js");
+module.exports = __webpack_require__(/*! E:\RYS\Development\PHP\laravel-vue-quickadminpanel\resources\adminapp\sass\app.scss */"./resources/adminapp/sass/app.scss");
 
 
 /***/ })
